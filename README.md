@@ -50,11 +50,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyx-dev&theme=tokyonight" />
-</p>
 
 ---
 
@@ -75,7 +70,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: sunnyji9562mail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/sunny-kumar-34a764383  
+ 
 
 ---
 
