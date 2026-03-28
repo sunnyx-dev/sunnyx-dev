@@ -60,13 +60,7 @@ I enjoy creating clean UI, developing structured backend systems, and working on
 
 ---
 
-## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyx-dev&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🎯 What I Focus On
 
